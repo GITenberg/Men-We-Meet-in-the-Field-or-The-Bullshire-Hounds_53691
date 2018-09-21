@@ -1,5 +1,8 @@
 _repo: Men-We-Meet-in-the-Field-or-The-Bullshire-Hounds_53691
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 53691-h/images/cover.jpg
 creator:
   author:
     agent_name: Bagot, A. G.
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '47489'
     url: http://www.gutenberg.org/2009/agents/47489
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/53691#Men-We-Meet-in-the-Field-or-The-Bullshire-Hounds
 gutenberg_issued: '2016-12-07'
 gutenberg_type: Text
 identifiers:
