@@ -1,0 +1,33 @@
+_repo: Men-We-Meet-in-the-Field-or-The-Bullshire-Hounds_53691
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bagot, A. G.
+    aliases:
+    - Bagot, Arthur Greville
+    - Bagatelle
+    gutenberg_agent_id: '47489'
+    url: http://www.gutenberg.org/2009/agents/47489
+description: ''
+gutenberg_issued: '2016-12-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53691'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Hunting -- Humor'
+- !lcc 'SK'
+- !lcsh 'Hunting -- Great Britain'
+- !lcsh 'Hunting -- Anecdotes'
+- GITenberg
+tableOfContents: Introductory -- The master -- The huntsman -- The whips -- The secretary
+  -- The farmer -- The parson -- The doctor -- The dealers -- The grumbler -- The
+  lady who hunts and rides -- The lady who hunts and does not ride -- The schoolboys
+  -- The boaster -- Hodge -- The keeper -- The authority -- The blacksmith -- The
+  runner -- The man at the toll-bar -- Who-whoop! -- The first of the season -- Uncle
+  John's new horse -- The hog-backed stile.
+title: Men We Meet in the Field; or, The Bullshire Hounds
+url: http://www.gutenberg.org/ebooks/53691
